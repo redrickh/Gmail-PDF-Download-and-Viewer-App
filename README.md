@@ -1,2 +1,1 @@
-# uniber
-Univer Bérmegtekintő nem hivatalos teszt app
+Gmailben egy adott feladótól kapott, jelszavas PDF megtekintő Kivy-ben.
