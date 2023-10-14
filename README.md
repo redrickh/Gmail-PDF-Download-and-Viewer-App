@@ -1,2 +1,2 @@
 # uniber
-Univer Bérmegtekintő
+Univer Bérmegtekintő nem hivatalos teszt app
