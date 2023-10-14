@@ -25,7 +25,7 @@ Before you get started, make sure you have the following dependencies installed:
 
 ## Screenshots
 
-![Main Screen](screenshot.png)
+![Main Screen](screenshot.PNG)
 _Main Screen_
 
 
