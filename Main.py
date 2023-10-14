@@ -180,7 +180,7 @@ class PDFDownloadAndViewerApp(App):
                 print("Hiba: Érvénytelen index.")
 
     def convert_pdf_to_image(self, pdf_file_path):
-        password = "0oE19w76"  # Add your PDF password here
+        password = "jelszo"  # PDF jelszó
         output_image_path = pdf_file_path.replace(".pdf", "_page_0.png")  # Kép elérési útja
 
         try:
