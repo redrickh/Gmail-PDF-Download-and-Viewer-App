@@ -43,4 +43,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - redrickh
 - GitHub: https://github.com/redrickh
 
-Feel free to customize this README to match your project's specifics. Provide additional information, installation instructions, or any other details that users may find helpful.
